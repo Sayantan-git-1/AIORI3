@@ -1,0 +1,7 @@
+latency,packet_loss,wifi_signal,dns_time,problem
+25,0,strong,30,normal
+180,1,strong,35,high_latency
+40,8,strong,40,packet_loss
+50,2,weak,35,weak_wifi
+200,7,weak,250,network_instability
+80,0,strong,300,dns_issue
